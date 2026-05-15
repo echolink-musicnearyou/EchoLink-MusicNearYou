@@ -1,7 +1,6 @@
 # EchoLink — Privacy Policy
 
-**Last updated:** 2026-05-02
-**Effective date:** 2026-05-02
+**Last updated:** 2026-05-15
 
 This Privacy Policy explains how EchoLink ("we", "us", "the app") collects, uses, and shares personal data when you use the EchoLink mobile application.
 
