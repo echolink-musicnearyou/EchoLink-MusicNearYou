@@ -1,7 +1,6 @@
 # EchoLink — Terms of Service
 
-**Last updated:** 2026-05-02
-**Effective date:** 2026-05-02
+**Last updated:** 2026-05-15
 
 By downloading, installing, or using EchoLink (the "Service"), you agree to these Terms of Service ("Terms"). If you do not agree, do not use the Service.
 
