@@ -158,7 +158,7 @@
       const detail = data?.details ? '\n\n' + data.details : '';
       setStatus(
         'Could not delete account: ' + (error?.message || data?.error) + detail +
-        '\n\nPlease email contact@echolink.app and we will erase your data within 30 days.',
+        '\n\nTry again Later',
         'error'
       );
       // Sign out so we don't leave a stray session in memory.
